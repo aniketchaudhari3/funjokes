@@ -1,0 +1,14 @@
+{
+  "name": "@aniketchaudhari/funjokes",
+  "version": "1.0.0",
+  "description": "Returns a random joke everytime!",
+  "repository": "aniketchaudhari3/funjokes",
+  "main": "index.js",
+  "keywords": [
+    "funjokes",
+    "npm",
+    "package",
+    "aniket",
+    "chaudhari"
+  ]
+}
