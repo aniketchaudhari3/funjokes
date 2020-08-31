@@ -15,7 +15,7 @@ $ npm install @aniketchaudhari/funjokes
 ## Usage
 
 ```js
-const sayjoke = require("@anketchaudhari/funjoke");
+const sayjoke = require("@aniketchaudhari/funjoke");
 
-joke();
+sayjoke();
 //=> Returns a funny joke!
