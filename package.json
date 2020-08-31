@@ -1,9 +1,4 @@
 {
-<<<<<<< HEAD
-"name": "@aniketchaudhari/funjokes",
-"version": "1.0.0"
-}
-=======
   "name": "@aniketchaudhari/funjokes",
   "version": "1.0.0",
   "description": "Returns a random joke everytime!",
@@ -17,4 +12,3 @@
     "chaudhari"
   ]
 }
->>>>>>> 712eabc74ae22a6ef826dd94d31d207e156a23d8
